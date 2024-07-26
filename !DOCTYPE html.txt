@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuadro de Mando Power BI</title>
+</head>
+<body>
+    <h1>Cuadro de Mando de Análisis de Empresas</h1>
+    <iframe title="PBI_Analisis_Empresas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4c0eeca5-e2bb-42d4-b8bb-a7e57fad84b1&autoAuth=true&ctid=e2bd1a3e-9fdb-4047-bf66-0b8352eee15e" frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
